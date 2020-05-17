@@ -28,7 +28,7 @@ pipeline {
 		}
 		changed {
 		   echo ' This will run only if the state of pipeline has changed'
-		   echo ' For example, if the pipeline was previousle failed but is now successful
+		   echo ' For example, if the pipeline was previousle failed but is now successful'
 		}
 		
 	}
